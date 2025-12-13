@@ -1,0 +1,23 @@
+{
+  "name": "gdg-node-track-yohannes",
+  "version": "1.0.0",
+  "main": "part-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yohannes18/GDG-Node-track-Yohannes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yohannes18/GDG-Node-track-Yohannes/issues"
+  },
+  "homepage": "https://github.com/Yohannes18/GDG-Node-track-Yohannes#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "express": "^4.22.1"
+  }
+}
